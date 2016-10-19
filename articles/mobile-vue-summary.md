@@ -48,7 +48,7 @@
 首先是`components`，其实我们整个项目都是基于组件的，所以组件的开发非常重要，之前一元购的组件写的就比较随意，可扩展性，可维护性都不是很好；淘友助手的组件基本还是比较规范的，可以举个例子：
 ![](http://angular.angular-china.org/d317c444-4331-49ed-847d-de9deaa98203.jpg)
 
-```
+```javascript
 <!-- author: dreamapple -->
 <template>
   <div v-show="show" class="mask dr-flex">
@@ -188,7 +188,7 @@
 
 下一个是关于页面的的开发：
 
-```
+``` javascript
 <!-- author: dreamapple -->
 <template>
   <!-- 游戏图片介绍 -->
