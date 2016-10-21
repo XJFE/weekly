@@ -187,6 +187,7 @@
 更高级的还有关于内容分发的内容，不过那个会有一些问题，样式的问题有待研究。
 
 下一个是关于页面的的开发：
+![](http://angular.angular-china.org/a0db20dc-9dcf-44cc-90b2-eafe2cc5e9e9.jpg)
 
 ``` javascript
 <!-- author: dreamapple -->
