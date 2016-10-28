@@ -1,3 +1,7 @@
+### 20161027 [@楼教主](https://github.com/52cik)
++ [正则在各种环境中的应用](articles/regular-expression-application.md)
++ [Chrome 调试姿势普及](articles/chorme-devtool.md)
+
 #### 20161020 [@dreamapplehappy](https://github.com/dreamapplehappy)
 + [移动端基于Vue的开发总结](articles/mobile-vue-summary.md)
 
